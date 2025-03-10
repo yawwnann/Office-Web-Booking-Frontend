@@ -136,7 +136,7 @@ export default function Details() {
                     </div>
                     <div className="overflow-hidden w-full h-[280px]">
                         <div id="my-map-display" className="h-full w-full max-w-[none] bg-none">
-                            <iframe className="h-full w-full border-0" frameBorder={0} src={`https://www.google.com/maps/embed/v1/place?q=${office.name},&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8`} />
+                            <iframe className="h-full w-full border-0" frameBorder={0} src={`https://www.google.com/maps/embed/v1/place?q=${office.name},&key=`} />
                         </div>
                         <a className="from-embedmap-code" href="https://www.bootstrapskins.com/themes" id="enable-map-data">
                             premium bootstrap themes
