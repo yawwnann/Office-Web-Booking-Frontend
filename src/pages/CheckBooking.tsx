@@ -4,7 +4,7 @@ import { BookingDetails } from "../types/type";
 import { viewBookingSchema } from "../types/validationBooking";
 import axios from "axios";
 import NavbarWrapper from "../wrappers/NavbarWrapper";
-import { config } from "../config"; // Import config
+import { config } from "../config";
 import apiClient from "../services/apiService";
 
 export default function CheckBooking() {
