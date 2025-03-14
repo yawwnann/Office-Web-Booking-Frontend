@@ -158,7 +158,7 @@ export default function BookOffice() {
             <h2 className="font-bold">Complete The Details</h2>
             <div className="flex flex-col gap-2">
               <label htmlFor="name" className="font-semibold">
-                Full Name
+                Name
               </label>
               <div className="flex items-center rounded-full border border-[#000929] px-5 gap-[10px] transition-all duration-300 focus-within:ring-2 focus-within:ring-[#0D903A]">
                 <img
@@ -224,7 +224,7 @@ export default function BookOffice() {
                 />
                 {formErrors.find((error) =>
                   error.path.includes("started_at")
-                ) && <p className="text-red-500">started_at is required</p>}
+                ) && <p className="text-red-500">started at is required</p>}
               </div>
             </div>
           </div>

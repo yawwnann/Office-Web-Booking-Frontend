@@ -21,7 +21,7 @@ export default function Browse() {
                 alt="icon"
               />
               <span className="font-semibold text-white">
-                We’ve won top productivity 500 fortunes
+                We have won top productivity 500 fortunes
               </span>
             </div>
             <h1 className="font-extrabold text-[50px] leading-[60px]">
