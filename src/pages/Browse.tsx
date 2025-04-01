@@ -44,7 +44,7 @@ export default function Browse() {
                   alt="icon"
                 />
                 <span className="font-bold text-xl leading-[30px] text-[#F7F7FD]">
-                  Explore Now
+                  jelajahi Sekarang
                 </span>
               </a>
               <a
