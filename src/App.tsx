@@ -7,6 +7,7 @@ import SuccessBooking from './pages/SuccessBooking';
 import CheckBooking from './pages/CheckBooking';
 
 function App() {
+    //route
     return (
         <BrowserRouter>
             <Routes>
