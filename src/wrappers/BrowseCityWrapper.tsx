@@ -38,8 +38,8 @@ export default function BrowseCityWrapper() {
       <section id="Cities" className="flex flex-col gap-[30px] mt-[100px]">
         <div className="w-full max-w-[1130px] mx-auto flex items-center justify-between">
           <h2 className="font-bold text-[32px] leading-[48px] text-nowrap">
-            You Can Choose <br />
-            Our Favorite Cities
+            Kamu dapat memilih <br />
+            kota favorite kami
           </h2>
           <a
             href="#"
